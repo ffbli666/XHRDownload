@@ -3,7 +3,7 @@
 實作像 Megaupload 的前端下載元件
 
 ## DEMO
-[DEMO](http://ffbli666.github.io/XHRDownload)
+[DEMO](http://ffbli.no-ip.org/works/XHRDownload/)
 
 ## TODO
 分段下載
